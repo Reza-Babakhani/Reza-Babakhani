@@ -28,7 +28,7 @@ When you work in a small team, you cannot have only one task. For this reason, I
 <br/>
 <br/>
 
-#####You can contact🤙 me through email or social networks.
+####You can contact🤙 me through email or social networks.
  
 
 
