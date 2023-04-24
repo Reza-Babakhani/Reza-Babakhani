@@ -16,8 +16,6 @@ I got lost many times on this path. I learned a lot and gained experience.
 <br/>
 Today I work as a <b>.Net backend</b> developer.
 <br/>
-Which tool to use depends on the type of project, the development team and the scale of the project.
-<br/>
 Also, due to my great interest in mobile programming, I learned <b>Flutter</b> and use it as a hobby.
 <br/>
 <br/>
