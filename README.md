@@ -14,7 +14,7 @@ Also, I will not forget my determination in learning.
 <br/>
 I got lost many times on this path. I learned a lot and gained experience.
 <br/>
-Today I work as a <b>backend</b> developer. Sometimes <b>.Net</b> and sometimes <b>Node</b>.
+Today I work as a <b>.Net backend</b> developer.
 <br/>
 Which tool to use depends on the type of project, the development team and the scale of the project.
 <br/>
