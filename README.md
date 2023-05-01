@@ -1,4 +1,4 @@
-<img align='right' src='img/personal-fade.png' width='200"'>
+<!---<img align='right' src='img/personal-fade.png' width='200"'>--->
 
 ### Hi👋, my name is [Reza Babakhani](https://rezababakhani.ir)
 
