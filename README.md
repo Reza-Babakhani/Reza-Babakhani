@@ -18,8 +18,6 @@ Since 2017, I have worked with <b>.Net</b> professionally on various projects in
 <br/>
 Since 2019, I got to know <b>Flutter</b> and <b>Dart</b> language and I did several business projects with it.
 <br/>
-Also, due to my great interest in mobile programming, I learned <b>Flutter</b> and use it as a hobby.
-<br/>
 <br/>
 When you work in a small team, you cannot have only one task. For this reason, I am familiar with <b>frontend, Devops, SEO, graphic design, product design and content</b>. Of course, without any claims.<br/>For example, I know what is a div, but I can't make it center.🤣
 </p>
