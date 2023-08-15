@@ -14,7 +14,9 @@ Also, I will not forget my determination in learning.
 <br/>
 I got lost many times on this path. I learned a lot and gained experience.
 <br/>
-Today I work as a <b>.Net backend</b> developer.
+Since 2017, I have worked with <b>.Net</b> professionally on various projects in the <b>back-end</b> and <b>desktop</b> fields.
+<br/>
+Since 2019, I got to know <b>Flutter</b> and <b>Dart</b> language and I did several business projects with it.
 <br/>
 Also, due to my great interest in mobile programming, I learned <b>Flutter</b> and use it as a hobby.
 <br/>
