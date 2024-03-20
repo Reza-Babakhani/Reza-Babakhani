@@ -45,6 +45,10 @@
    <a href="https://t.me/rbabakhani" target="_blank">
     <img src="img/telegram.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>  
+  <br/>
+   <a href="https://raw.githubusercontent.com/Reza-Babakhani/Reza-Babakhani/main/cv.babakhani.pdf" target="_blank">
+    <img src="img/cv.png" alt="cv" style="vertical-align:top; margin:6px 4px">
+  </a>  
   
   
 
