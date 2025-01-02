@@ -1,19 +1,19 @@
 
 <ul class="bio-list">
+	<li >
+    					Creative Director at <a href="https://mirka.agency" target="_blank"><span style="color:hsl(213, 80%, 41%);">Mirka</span></a>
+				</li>
 				<li >
-    					Flutter developer with 3 years of experience
+    					Flutter developer with 4 years of experience
 				</li>
 				<li>
-					.NET developer with 6 years of experience
-				</li>
-				<li>
-					Creative Director and Mobile Lead in <a href="https://mirka.agency" target="_blank"><span style="color:hsl(213, 80%, 41%);">Mirka Agency</span></a>
-				</li>
+					.NET developer with 7 years of experience
+				</li>				
 				<li>
 					Mobile Developer of <a href="https://dasbedas.com/app-dasbedas" target="_blank"><span style="color:hsl(113, 39%, 45%);">DasBeDas</span></a>
 				</li>
 				<li>
-					Master of Software Engineering from <a href="http://iust.ac.ir" rel="nofollow,noopener,noreferrer" target="_blank"><span style="color:hsl(240, 75%, 60%);">IUST</span></a>
+					Master of Software Engineering from <a href="http://iust.ac.ir/en" rel="nofollow,noopener,noreferrer" target="_blank"><span style="color:hsl(240, 75%, 60%);">IUST</span></a>
 				</li>
 				<li>
 					Author of <a href="https://roidlandtour.ir/" target="_blank"><span style="color:hsl(76, 49%, 46%);">Roidland-Tour</span></a> book
