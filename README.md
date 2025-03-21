@@ -50,7 +50,7 @@
   </a>  
   <br/>
    <a href="https://raw.githubusercontent.com/Reza-Babakhani/Reza-Babakhani/main/en-cv.babakhani.pdf" target="_blank">
-    <img src="img/cv.png" alt="cv" style="vertical-align:top; margin:6px 4px">
+    <img src="img/en-cv.png" alt="cv" style="vertical-align:top; margin:6px 4px">
   </a>  
   <a href="https://raw.githubusercontent.com/Reza-Babakhani/Reza-Babakhani/main/cv.babakhani.pdf" target="_blank">
     <img src="img/fa-cv.png" alt="cv" style="vertical-align:top; margin:6px 4px">
