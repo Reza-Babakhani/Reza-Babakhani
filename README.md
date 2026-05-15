@@ -22,13 +22,7 @@
 					Creative Marketing Ideas
 				</li>
 				<li>
-					Proficient in technical SEO principles
-				</li>
-				<li>
-					Researcher in the field of distributed systems (2020)
-				</li>
-				<li>
-					Researcher in the field of software architecture (2019)
+					Proficient in Marketing
 				</li>
 				<li>
 					<span style="color:hsl(312, 54%, 53%);">Interested in business and entrepreneurship</span>
