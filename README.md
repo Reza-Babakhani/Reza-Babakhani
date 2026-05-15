@@ -10,9 +10,6 @@
 					.NET developer with 8 years of experience
 				</li>				
 				<li>
-					Mobile Developer of <a href="https://dasbedas.com/app-dasbedas" target="_blank"><span style="color:hsl(113, 39%, 45%);">DasBeDas</span></a>
-				</li>
-				<li>
 					Master of Software Engineering from <a href="http://iust.ac.ir/en" rel="nofollow,noopener,noreferrer" target="_blank"><span style="color:hsl(240, 75%, 60%);">IUST</span></a>
 				</li>
 				<li>
